@@ -18,10 +18,15 @@
 ## 🚀 What I Do
 
 ✔️ AI-Powered Web Applications
+
 ✔️ Backend Development with Flask
+
 ✔️ Database Management using MySQL
+
 ✔️ Data Analysis & Visualization
+
 ✔️ Cross-Platform App Development with Flutter
+
 ✔️ API Integration & Automation
 
 
