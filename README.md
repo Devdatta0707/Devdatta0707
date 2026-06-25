@@ -22,7 +22,6 @@
 ⚡ Fun fact: I love converting real-world ideas into smart digital products 🚀
 
 
-
 # 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/_deva13_/?hl=en)
