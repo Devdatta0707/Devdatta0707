@@ -65,9 +65,8 @@
 
 
 ## 🌐 Connect With Me
-* LinkedIn
-* Instagram
-* Portfolio Website
-* Gmail
+* LinkedIn : www.linkedin.com/in/devdatta-salunkhe
+* Instagram : https://www.instagram.com/_deva13_/?hl=en
+* Gmail : devdattasalunkhe0707@gmail.com
 
 ⭐ “Building smart solutions with creativity, code, and innovation.”
